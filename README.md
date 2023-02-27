@@ -1,12 +1,9 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there👋, my name is Arkady, I'm a passionate Frontend/UI developer looking forward to working on projects that change peoples' lives
+- 🔭 I’m currently working on my portfolio site
+- 🌱 I’m currently learning TypeScript and Redux
+- 👯 I’m looking to collaborate on fun frontend
+- 📫 How to reach me: @arkady_vl on Telegram
+- ⚡ Fun fact: I'm lefthanded but I eat with my right hand :)
 
 ## Techs
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,12 +19,3 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-<!--
-**dev0x451/dev0x451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
