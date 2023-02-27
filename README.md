@@ -1,7 +1,8 @@
-### Hi there👋, my name is Arkady, I'm a passionate Frontend/UI developer looking forward to working on projects that change peoples' lives
+### Hi there👋
+### My name is Arkady, I'm a passionate Frontend/UI developer looking forward to working on frontned projects that could be useful for people and make their lives easer...
 - 🔭 I’m currently working on my portfolio site
 - 🌱 I’m currently learning TypeScript and Redux
-- 👯 I’m looking to collaborate on fun frontend
+- 👯 I’m looking to collaborate on projects with React/TypeScript stack
 - 📫 How to reach me: @arkady_vl on Telegram
 - ⚡ Fun fact: I'm lefthanded but I eat with my right hand :)
 
@@ -19,3 +20,6 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## Portfolio
+Please visit my portfolio site at https://movies.schapov.dev
