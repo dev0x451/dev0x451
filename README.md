@@ -1,5 +1,5 @@
 ### Hi there👋
-### My name is Arkady, I'm a passionate Frontend/UI developer looking forward to working on frontned projects that could be useful for people and make their lives easer...
+### My name is Arkady, I'm a professional Frontend/UI developer looking forward to working on meaningful projects that could be useful for people...
 - 🔭 I’m currently working on my portfolio site
 - 🌱 I’m currently learning TypeScript and Redux
 - 👯 I’m looking to collaborate on projects with React/TypeScript stack
