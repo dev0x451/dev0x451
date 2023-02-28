@@ -26,4 +26,4 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Portfolio
-Please visit my portfolio site at https://movies.schapov.dev
+Please visit my portfolio site at https://schapov.dev
