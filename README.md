@@ -1,6 +1,6 @@
 ### Hi there👋
 ### My name is Arkady Schapov, I'm a professional Frontend/UI developer looking forward to working on meaningful projects that could be useful for people...
-- 🔭 I’m currently working on my portfolio site
+- 🔭 I’m currently working on a pet project related to e-commerce
 - 🌱 I’m currently learning TypeScript and Redux
 - 👯 I’m looking to collaborate on projects with React/TypeScript stack
 - 📫 How to reach me: @arkady_vl on Telegram
