@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a pet project related to e-commerce
 - 🌱 I’m currently learning TypeScript and Redux
 - 👯 I’m looking to collaborate on projects with React/TypeScript stack
-- 📫 How to reach me: @arkady_vl on Telegram
+- 📫 Please reach me on telegram: @arkady_vl or by email: av.schapov@gmail.com
 - ⚡ Fun fact: I'm lefthanded but I eat with my right hand :)
 
 ## Techs
