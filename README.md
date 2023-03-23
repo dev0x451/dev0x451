@@ -1,9 +1,9 @@
 ### Hi there👋
-### My name is Arkady Schapov, I'm a professional Frontend/UI developer looking forward to working on meaningful projects that could be useful for people...
-- 🔭 I’m currently working on a pet project related to e-commerce
-- 🌱 I’m currently learning TypeScript and Redux
-- 👯 I’m looking to collaborate on projects with React/TypeScript stack
-- 📫 Please reach me on telegram: @arkady_vl or by email: av.schapov@gmail.com
+### My name is Arkady Schapov. I'm a professional Frontend/UI developer looking forward to working on meaningful projects that could be useful for people...
+- 🔭 Currently working on a pet project related to e-commerce
+- 🌱 Learning TypeScript, Redux and CI/CD
+- 👯 Looking to collaborate on projects with React/TypeScript stack
+- 📫 Reach me on telegram: @arkady_vl or by email: av.schapov@gmail.com
 - ⚡ Fun fact: I'm lefthanded but I eat with my right hand :)
 
 ## Techs
